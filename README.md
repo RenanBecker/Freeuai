@@ -2,7 +2,7 @@
 Exercicio de JavaScript para a recriação do jogo Freeway de 1981.<br>
 A proposta da criação do jogo é o exercicio de técnicas de programação.
 
-<h1><p>Foram Utilizadas as seguintes técnicas:</p></h1>
+<p>Foram Utilizadas as seguintes técnicas:</p>
 
 <OL>
 			<LI>Laços de repetição
