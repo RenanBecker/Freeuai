@@ -14,5 +14,5 @@ A proposta da criação do jogo é o exercicio de técnicas de programação.
 			<LI>Inserção de livrarias 
 		</OL>
       
-  <p>O jogo pode ser executado no link: <a href="https://editor.p5js.org/RenanBecker/present/Cf8QGRP4t"><b>Freeuai</b></a>.
+  <p>O jogo pode ser executado no link: <a href="https://editor.p5js.org/RenanBecker/present/Cf8QGRP4t" target=”_blank”><b>Freeuai</b></a>.
   </P>
