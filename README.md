@@ -11,7 +11,7 @@ A proposta da criação do jogo é o exercicio de técnicas de programação.
 			<LI>Interação com o teclado
 			<LI>Execução de sons
 			<LI>Inserção de imagens
-			<LI>Inserção de livrarias 
+			<LI>Inserção de bibliotecas  
 		</OL>
       
   <p>O jogo pode ser executado no link: <a href="https://editor.p5js.org/RenanBecker/present/Cf8QGRP4t" target=”_blank”><b>Freeuai</b></a>.
